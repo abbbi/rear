@@ -31,7 +31,7 @@ done <"$SM_INI"
 
 SESAM_WORK_DIR="${SESAM_VAR_DIR%%+(/)}/var/work/*"
 SESAM_TMP_DIR="${SESAM_VAR_DIR%%+(/)}/var/tmp/*"
-SESAM_LIS_DIR="${SESAM_VAR_DIR%%+(/)}/var/lis/*"
+SESAM_LIS_DIR="${SESAM_VAR_DIR%%+(/)}/var/lis"
 SESAM_LGC_DIR="${SESAM_VAR_DIR%%+(/)}/var/log/lgc/*"
 SESAM_SMS_DIR="${SESAM_VAR_DIR%%+(/)}/var/log/sms/*"
 SESAM_PROT_DIR="${SESAM_VAR_DIR%%+(/)}/var/prot/*"
